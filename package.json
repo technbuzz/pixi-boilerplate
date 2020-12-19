@@ -1,0 +1,24 @@
+{
+  "name": "pixi-boilerplate",
+  "version": "1.0.0",
+  "description": "Pixi with Pixi-viewport in Typescript for daily usage",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build dist"
+  },
+  "keywords": [
+    "pixi.js",
+    "pixi-viewport",
+    "typescript"
+  ],
+  "author": "Samiullah Khan",
+  "license": "ISC",
+  "dependencies": {
+    "pixi-viewport": "^4.18.1",
+    "pixi.js": "^5.3.5"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.3"
+  }
+}
